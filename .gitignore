@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS files
+.DS_Store
+
+# Databases
+*.db
+/Users/apple/Desktop/graduation/Graduation_project/NEW/config/database/erp.db
+
+# Caches
+**/.pytest_cache/
+**/.mypy_cache/
+**/.cache/
